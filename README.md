@@ -1,1 +1,3 @@
-# RetailX---Walmart-Customer-Purchase-Behavior-Analytics
+# Walmart Customer Purchase Behavior Analytics
+## Project Overview
+This project focuses on analyzing Walmart transaction data to better understand customer shopping behavior and generate actionable business insights. The workflow involves data cleaning, preprocessing, and exploratory data analysis to ensure data accuracy and reliability. Various analytical techniques and visualizations are applied to identify purchasing trends across product categories, seasonal demand fluctuations, and spending patterns. The insights gained from this analysis can be leveraged to optimize inventory management, refine marketing strategies, and support data-driven decision-making within the retail sector.
